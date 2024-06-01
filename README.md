@@ -1,5 +1,7 @@
 # A17landing
 
+Goto to:  https://angular17-landing-product.netlify.app/ to see deployed
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
 ## Development server
